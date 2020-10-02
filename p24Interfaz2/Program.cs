@@ -33,6 +33,7 @@ namespace p24Interfaz2
      public void Dospatas()=> Console.WriteLine("Dospatas");
  }
  
+ 
  class Program
  {
      static void Main(string[]args)

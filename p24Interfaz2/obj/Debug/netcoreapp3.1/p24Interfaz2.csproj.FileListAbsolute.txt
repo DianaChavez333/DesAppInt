@@ -1,0 +1,13 @@
+C:\Users\ERIK\Desktop\VII\ro.apl.inter\Empiezo\p24Interfaz2\obj\Debug\netcoreapp3.1\p24Interfaz2.csprojAssemblyReference.cache
+C:\Users\ERIK\Desktop\VII\ro.apl.inter\Empiezo\p24Interfaz2\obj\Debug\netcoreapp3.1\p24Interfaz2.AssemblyInfoInputs.cache
+C:\Users\ERIK\Desktop\VII\ro.apl.inter\Empiezo\p24Interfaz2\obj\Debug\netcoreapp3.1\p24Interfaz2.AssemblyInfo.cs
+C:\Users\ERIK\Desktop\VII\ro.apl.inter\Empiezo\p24Interfaz2\obj\Debug\netcoreapp3.1\p24Interfaz2.csproj.CoreCompileInputs.cache
+C:\Users\ERIK\Desktop\VII\ro.apl.inter\Empiezo\p24Interfaz2\bin\Debug\netcoreapp3.1\p24Interfaz2.exe
+C:\Users\ERIK\Desktop\VII\ro.apl.inter\Empiezo\p24Interfaz2\bin\Debug\netcoreapp3.1\p24Interfaz2.deps.json
+C:\Users\ERIK\Desktop\VII\ro.apl.inter\Empiezo\p24Interfaz2\bin\Debug\netcoreapp3.1\p24Interfaz2.runtimeconfig.json
+C:\Users\ERIK\Desktop\VII\ro.apl.inter\Empiezo\p24Interfaz2\bin\Debug\netcoreapp3.1\p24Interfaz2.runtimeconfig.dev.json
+C:\Users\ERIK\Desktop\VII\ro.apl.inter\Empiezo\p24Interfaz2\bin\Debug\netcoreapp3.1\p24Interfaz2.dll
+C:\Users\ERIK\Desktop\VII\ro.apl.inter\Empiezo\p24Interfaz2\bin\Debug\netcoreapp3.1\p24Interfaz2.pdb
+C:\Users\ERIK\Desktop\VII\ro.apl.inter\Empiezo\p24Interfaz2\obj\Debug\netcoreapp3.1\p24Interfaz2.dll
+C:\Users\ERIK\Desktop\VII\ro.apl.inter\Empiezo\p24Interfaz2\obj\Debug\netcoreapp3.1\p24Interfaz2.pdb
+C:\Users\ERIK\Desktop\VII\ro.apl.inter\Empiezo\p24Interfaz2\obj\Debug\netcoreapp3.1\p24Interfaz2.genruntimeconfig.cache
